@@ -5,3 +5,5 @@ DS Analytics Lab is a personal data science portfolio by Daniel Soto, showcasing
 * Built a machine learning model that classifies individuals as extroverts or introverts based on behavioral data.
 * The dataset was downloaded from Kaggle.
 * Used a Logistic Regression model for classification.
+
+![](images/project1_Personlaity_correlation_matriz.png)
